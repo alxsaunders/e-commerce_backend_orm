@@ -1,4 +1,4 @@
-# Object-Relational Mapping (ORM): E-Commerce Back End
+# (ORM): E-Commerce Back End
 
  ## Table-of-Contents
 
